@@ -1,6 +1,8 @@
 # E-book-Papel-Planilhas-e-Pessoas
 Um e-book com foco em gestão de pessoas, com exemplos de empresas que tiveram sucesso e as que ficaram para trás
 
+[E-book danesayuri papel planilhas e pessoas.pdf](https://github.com/user-attachments/files/18582105/E-book.danesayuri.papel.planilhas.e.pessoas.pdf)
+
 Tecnologias Utilizadas
 Chat GPT, CANVAS e Power Point 
 
